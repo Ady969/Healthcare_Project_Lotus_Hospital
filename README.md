@@ -2,7 +2,8 @@
 
 **Tools Used:** Power BI | Excel | DAX | Data Modeling | Data Visualization  
 
-![Dashboard Preview](Dashboards_Screenshot.png)
+![Dashboard Preview](Dashboard_Screenshort.png)
+
 
 ---
 
