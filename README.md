@@ -54,7 +54,7 @@ The dashboard enables hospital administrators to:
 
 ## 👤 About Analyst  
 
-**Aadil Shaikh – Business & Data Analyst (Healthcare Domain)**  
+**Aadil Shaikh – Business & Data Analyst**  
 Focused on turning complex data into clear, actionable insights using Power BI, Excel, and modern analytics techniques.  
 
 📧 *[adiltheanalyst@zohomail.in]*  
